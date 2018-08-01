@@ -1,0 +1,66 @@
+{
+  "project_info": {
+    "project_number": "848471920696",
+    "firebase_url": "https://vinetrail-1518005681297.firebaseio.com",
+    "project_id": "vinetrail-1518005681297",
+    "storage_bucket": "vinetrail-1518005681297.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848471920696:android:2b52ab17590c6872",
+        "android_client_info": {
+          "package_name": "com.vinetrail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848471920696-qkjc54lm54i9etp799g9e7dmeh9dm22j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vinetrail",
+            "certificate_hash": "21361e831166f7fca935d8276f1e3071f705356a"
+          }
+        },
+        {
+          "client_id": "848471920696-cp1et794uutol7aosutqpih1don3g72s.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "848471920696-msc19rdvquo7q058je7vif7sgvmn11tp.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "848471920696-7jtan0cv701jq0d645al5vripajqhtbf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vinetrail",
+            "certificate_hash": "bf2b2194bfb897095ab47bf64cbfb19be3d96a69"
+          }
+        },
+        {
+          "client_id": "848471920696-cp1et794uutol7aosutqpih1don3g72s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3I_STynh3XswZ28ZZro_E8Lc0V25cmu4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

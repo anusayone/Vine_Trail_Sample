@@ -1,0 +1,56 @@
+{
+  "name": "vinetrail",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "rnpm": {
+    "assets": [
+      "assets/fonts"
+    ]
+  },
+  "dependencies": {
+    "react": "16.2.0",
+    "react-native": "0.53.3",
+    "react-native-fabric": "^0.5.1",
+    "react-native-fbsdk": "0.7.0",
+    "react-native-fetch-blob": "0.10.8",
+    "react-native-fs": "2.10.14",
+    "react-native-google-sign-in": "1.0.16",
+    "react-native-hyperlink": "0.0.14",
+    "react-native-image-pan-zoom": "2.1.3",
+    "react-native-image-picker": "0.26.10",
+    "react-native-image-placeholder": "1.0.14",
+    "react-native-map-clustering": "1.2.8",
+    "react-native-maps": "0.20.1",
+    "react-native-maps-directions": "1.4.1",
+    "react-native-material-bottom-navigation": "0.8.2",
+    "react-native-mauron85-background-geolocation": "0.5.0-alpha.34",
+    "react-native-progress": "^3.5.0",
+    "react-native-push-notification": "^3.0.2",
+    "react-native-side-menu": "1.1.3",
+    "react-native-simple-dialogs": "^0.3.1",
+    "react-native-simple-toast": "0.0.8",
+    "react-native-snap-carousel": "3.6.0",
+    "react-native-sound": "^0.10.9",
+    "react-native-super-grid": "2.3.2",
+    "react-native-video": "^2.2.0",
+    "react-navigation": "1.0.0-beta.30",
+    "react-navigation-redux-helpers": "1.0.0",
+    "react-redux": "5.0.6",
+    "redux": "3.7.2",
+    "redux-logger": "3.0.6",
+    "redux-thunk": "2.2.0"
+  },
+  "devDependencies": {
+    "babel-jest": "22.1.0",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "22.1.4",
+    "react-test-renderer": "16.2.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
